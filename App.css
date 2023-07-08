@@ -1,0 +1,189 @@
+*{
+ 
+  text-transform: capitalize;
+  margin: 0%;
+  font-family:Roboto ;
+  
+}
+.logo{
+  width: 70px;
+  height: 40px;
+ padding: 0%;
+ margin-left: 10px;
+ cursor: pointer;
+ 
+}
+
+.header{
+  padding: 15px;
+  border-bottom: 2px solid white;
+  /* position: fixed; */
+ background-color: white;
+width: 100%;
+}
+
+
+
+i{
+  padding: 0 20px;
+}
+
+.icon{
+  padding: 10px;
+
+}
+
+
+.main{
+  background-image: url('https://i.ytimg.com/vi/KaX4RlOv5_c/maxresdefault.jpg');
+  background-size: cover;
+  padding: 320px;
+  
+}
+
+
+.card-cover{
+  width: 100%;
+  height: 190px;
+  padding: 0%;
+  background-size: cover;
+  background-position: center;
+} 
+.col ,.col-md-3{
+padding: 0%;
+}
+
+p{
+  font-size: 25px;
+}
+
+.myicon{
+  padding:  12px  17px;
+  position: absolute;
+}
+.heading{
+  background-size: cover;
+  background-position: center;
+  height: 100px;
+  width: 100%;
+
+}
+.category{
+  background-size: cover;
+  height: 280px;
+  width: 220px;
+}
+ol li{
+  list-style: none;
+  padding: 0%;
+  color:grey;
+ 
+
+}
+ol{
+  padding: 0%;
+
+  
+}
+
+.footer1{
+  padding-left:100px;
+}
+img{
+  width: 120px;
+  padding-left: 5px;
+}
+.original{
+  height:48px;
+  width: 48px;
+  /* padding: 25px; */
+}
+p{
+  font-size: 14px;
+}
+.navlink{
+  padding: 18px;
+  color: black;
+  word-spacing: 5px;
+  font-family: Raleway;
+  font-weight: bolder;
+  text-decoration: none;
+
+}
+.search-box{
+  padding: 3px;
+
+}
+/* home */
+.image{
+  height: auto;
+  width: 100%;
+  padding: 0%;
+}
+
+.top-brand{
+  width: 100%;
+  border-radius: 5px 5px 5px 5px;
+  padding: 20px;
+  max-height: 400px;
+}
+.mens-explore{
+  margin: 50px 40px 30px 40px;
+  color: #3e4152;
+font-weight: bolder;
+text-transform: uppercase;
+letter-spacing: 5px;
+
+
+
+
+}
+.kids-top{
+  width: 100%;
+}
+ 
+.fav-brands{
+  margin: 10px;
+  height: 130px;
+  width: 130px;
+}
+.iconic-brands{
+  padding: 0%;
+  /* margin: 0 ; */
+  width: 300px;
+}
+
+.explore{
+  width: 600px;
+}
+
+.brands{
+  width: 200px;
+  margin: 10px;
+  
+}
+.bed-photo{
+  width: 400px;
+  padding: 20px;
+}
+.sub-text{
+  padding: 0px 0px 0px 50px;
+}
+.text-heading{
+  padding: 10px;
+}
+.get-inspired{
+  width: 100%;
+  
+}
+.mycontainer{
+  background-color: #efedee;
+  padding-bottom: 45px;
+}
+.brand{
+  height: 120px;
+  width: 200px;
+  background-size: cover;
+
+  
+}
